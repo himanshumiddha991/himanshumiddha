@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Middha</h1>
 <h3 align="center">Experienced web developer Specializes in responsive design for optimal user experience.</h3>
-
-- 🔭 I’m currently working on **wordpress ai plugin**
-
 - 📫 How to reach me **himanshumiddha24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
